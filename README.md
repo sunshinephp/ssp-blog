@@ -1,4 +1,4 @@
 ssphp-blog
 ==========
 
-Blogging module for the site.
+Blogging module for ZF2 to be included into the main site.
